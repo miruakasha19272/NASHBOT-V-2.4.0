@@ -28,7 +28,8 @@ module.exports = {
   },
 };
 ```
-
+### scroll down
+and go to release and download the zip of c3c
 
 ## Features
 
