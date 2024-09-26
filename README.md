@@ -28,10 +28,6 @@ module.exports = {
   },
 };
 ```
-### scroll down
-and go to release and download the zip of c3c
-
-## Features
 
 - **Command Handling**: 
   - Supports dynamic command registration.
@@ -68,7 +64,7 @@ This project allows you to utilize the Facebook app state for your bot. Follow t
 
 ## Step 1: Download the C3C Extension
 1. **Download the C3C ZIP File**:
-   - Go to the [C3C GitHub Releases page](https://github.com/c3cbot/c3c-ufc-utility/releases/tag/2.0.1)
+   - Go to the [C3C GitHub Releases page](https://github.com/joshuaAposto/NASHBOT-V-2.4.0/releases/tag/v2.0.1)
    - Download the ZIP file of the latest release.
 
 2. **Extract the ZIP File**:
